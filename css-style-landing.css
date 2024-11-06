@@ -151,3 +151,25 @@ img{
     font-size: 30px;
     text-align:right;
 }
+
+.call-to-action{
+    background-color: #3882F6;
+    display: flex;
+    justify-content: space-around;
+    margin-top: 100px;
+    margin-bottom: 100px;
+    margin-left: 300px;
+    margin-right:300px;
+    border-radius: 5px;
+    padding: 40px;
+    color: #F9FAF8;;
+}
+
+h3{
+    margin: 0px;
+    padding: 0px;
+}
+
+.bottom-button{
+    border: 2px solid #F9FAF8;
+}
